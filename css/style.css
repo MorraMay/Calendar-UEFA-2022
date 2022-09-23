@@ -5,15 +5,15 @@
 
 @font-face {
     font-family:'Antonio' ;
-    src: url(/fonts/Antonio-VariableFont_wght.ttf);
+    src: url(../fonts/Antonio-VariableFont_wght.ttf);
 }
 @font-face {
     font-family:'Racing' ;
-    src: url(/fonts/RacingSansOne-Regular.ttf);
+    src: url(../fonts/RacingSansOne-Regular.ttf);
 }
 
 body{
-    background: url(/img/LC.jpg);
+    background: url(../img/LC.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 	background-attachment: fixed;
